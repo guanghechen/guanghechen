@@ -12,6 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![guanghechen's Top Langs][GITHUB_LANG_SRC]][GITHUB_PROFILE]
 
+<!--
 ## Repositories
 
 [![yozora][GITHUB_CARD_YOZORA]][GITHUB_REPO_YOZORA]
@@ -19,6 +20,7 @@
 [![yozora-react][GITHUB_CARD_YOZORA_REACT]][GITHUB_REPO_YOZORA_REACT]
 
 [![node-scaffolds][GITHUB_CARD_NODE_SCAFFOLDS]][GITHUB_REPO_NODE_SCAFFOLDS]
+-->
 
 
 [GITHUB_PROFILE]: https://github.com/guanghechen
