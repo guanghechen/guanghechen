@@ -30,6 +30,7 @@ Hi, have a nice day.
 ## 💫 More
 
 * [Guanghechen's Blog][BLOG_SRC]
+* [Yozora -- A markdown parser for resolving markdown-like syntax strings into AST][GITHUB_REPO_YOZORA]
 
 
 [GITHUB_PROFILE]: https://github.com/guanghechen
