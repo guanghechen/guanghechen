@@ -1,8 +1,6 @@
-## About Me
+## 👋 Hi there 
 
-光和尘，三岁零几百个月的见习魔法师。想吃榴莲披萨。
-
-博客地址： https://me.guanghechen.com/
+Hi, have a nice day.
 
 <br />
 
@@ -22,6 +20,17 @@
 [![node-scaffolds][GITHUB_CARD_NODE_SCAFFOLDS]][GITHUB_REPO_NODE_SCAFFOLDS]
 -->
 
+## 🙈 Motto
+
+欲买桂花同载酒，终不似，少年游。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+── 鲁迅《想喝桂花酒了》
+
+## 💫 More
+
+* [Guanghechen's Blog][BLOG_SRC]
+
 
 [GITHUB_PROFILE]: https://github.com/guanghechen
 [GITHUB_REPO_NODE_SCAFFOLDS]: https://github.com/guanghechen/node-scaffolds
@@ -30,6 +39,7 @@
 [GITHUB_CARD_YOZORA]: https://github-readme-stats.vercel.app/api/pin/?username=yozorajs&repo=yozora
 [GITHUB_REPO_YOZORA_REACT]: https://github.com/yozorajs/yozora-react
 [GITHUB_CARD_YOZORA_REACT]: https://github-readme-stats.vercel.app/api/pin/?username=yozorajs&repo=yozora-react
+[BLOG_SRC]: https://me.guanghechen.com/posts/
 
 <!-- TODO use github-readme-stats instead of github-readme-stats-one-bice -->
 [GITHUB_STATS_SRC]: https://github-readme-stats-one-bice.vercel.app/api?username=guanghechen&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,COLLABORATOR
