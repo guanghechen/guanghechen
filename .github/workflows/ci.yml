@@ -1,0 +1,32 @@
+name: github-contribution-animation
+
+on:
+  schedule:
+    - cron: "0 */8 * * *" # every 8 hours
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # See https://github.com/Platane/snk.
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: guanghechen
+
+          # path of the generated svg file
+          # If left empty, the svg file will not be generated
+          svg_out_path: dist/github-contribution-snake.svg
+
+      # See https://github.com/crazy-max/ghaction-github-pages.
+      - name: publish github-contribution-snake.svg
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: public
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
