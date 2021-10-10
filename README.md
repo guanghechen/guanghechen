@@ -48,4 +48,6 @@ Hi, have a nice day.
 [GITHUB_STATS_SRC0]: https://github-readme-stats.vercel.app/api?username=guanghechen&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,COLLABORATOR
 [GITHUB_LANG_SRC0]: https://github-readme-stats.vercel.app/api/top-langs/?username=guanghechen&layout=compact&exclude_repo=guanghechen.github.io,yozorajs.github.io,LittleClown.github.io,static-resources&hide=handlebars&role=OWNER,COLLABORATOR
 
-![github contribution snake animation](https://github.com/guanghechen/guanghechen/blob/public/github-contribution-snake.svg)
+<!--
+  ![github contribution snake animation](https://github.com/guanghechen/guanghechen/blob/public/github-contribution-snake.svg)
+-->
