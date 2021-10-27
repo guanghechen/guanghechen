@@ -43,7 +43,7 @@ Hi, have a nice day.
 [BLOG_SRC]: https://me.guanghechen.com/posts/
 
 <!-- TODO use github-readme-stats instead of github-readme-stats-one-bice -->
-[GITHUB_STATS_SRC]: https://github-readme-stats-one-bice.vercel.app/api?username=guanghechen&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,COLLABORATOR
+[GITHUB_STATS_SRC]: https://github-readme-stats-one-bice.vercel.app/api?username=guanghechen&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR
 [GITHUB_LANG_SRC]: https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=guanghechen&layout=compact&exclude_repo=guanghechen.github.io,yozorajs.github.io,LittleClown.github.io,static-resources&hide=handlebars&role=OWNER,COLLABORATOR
 [GITHUB_STATS_SRC0]: https://github-readme-stats.vercel.app/api?username=guanghechen&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,COLLABORATOR
 [GITHUB_LANG_SRC0]: https://github-readme-stats.vercel.app/api/top-langs/?username=guanghechen&layout=compact&exclude_repo=guanghechen.github.io,yozorajs.github.io,LittleClown.github.io,static-resources&hide=handlebars&role=OWNER,COLLABORATOR
